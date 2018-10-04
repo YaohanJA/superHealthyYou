@@ -32,10 +32,10 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Data Sources
 
-Source 1 [NutriStrategy](https://www.nutristrategy.com/activitylist.htm)  -using scraping to obtain the data
-Source 2 [MyFoodBuddy](http://www.myfoodbuddy.com/foodCalorieTable.htm)  -using scraping to obtain the data
-Source 3 [NutritionValue](https://www.nutritionvalue.org/)  -using scraping to obtain the data
-Source 4 [Food2Fork](https://www.food2fork.com/about/api)  -using API to obtain the data
+Source 1 [NutriStrategy](https://www.nutristrategy.com/activitylist.htm)  -using scraping to obtain the data  
+Source 2 [MyFoodBuddy](http://www.myfoodbuddy.com/foodCalorieTable.htm)  -using scraping to obtain the data  
+Source 3 [NutritionValue](https://www.nutritionvalue.org/)  -using scraping to obtain the data  
+Source 4 [Food2Fork](https://www.food2fork.com/about/api)  -using API to obtain the data  
 
 
 
