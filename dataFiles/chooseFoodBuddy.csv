@@ -1,0 +1,89 @@
+﻿Category,Name,Calories(kcal),Protein (g),Fat (g),Carbohydrate (g)
+Carbohydrate,Corn,205.19,3.15,10.08,28.12
+Carbohydrate,Honey ,65,0,0,17
+Carbohydrate,Rice,225,4,0,50
+Carbohydrate,Spaghetti,230.83,9.67,5.83,35.83
+Carbohydrate,Tortilla,65,2,1,13
+Dairy Products,Bread Crumbs,120,4,2,22
+Dairy Products,Cheese,125,25,1,3
+Dairy Products,Cream,66,0.5,7,0.6
+Dairy Products,Eggs,15,4,0,0
+Dairy Products,Flour,440,12,1,93
+Dairy Products,Milk,100,8,2,12
+Dairy Products,Parmesan,203.33,18.67,13.67,1.67
+Dairy Products,Pasta,131,1.1,5,25
+Dairy Products,Sour Cream ,25,0,3,1
+Dairy Products,Mozzarella,80,6,6,1
+Fruit,Apple,106.25,1,1,27.75
+Fruit,Apple Juice,140,1,0,34
+Fruit,Bananas,122.5,1.5,1,31
+Fruit,Blackberries,75,1,1,18
+Fruit,Cabbage,19.17,1.33,0,4
+Fruit,Chili,175,9.5,8,16
+Fruit,Lemons,15,1,0,5
+Fruit,Lime ,57.5,1,0.5,19
+Fruit,Paprika ,5,0,0,1
+Fruit,Pineapple,107.5,0.67,0.17,27.5
+Grains,Bagels,200,7,2,38
+Grains,Baking,40,0.71,1.43,5.86
+Grains,Barley,700,16,2,158
+Grains,Bread,425,11,16.75,59
+Grains,Buckwheat,340,6,1,78
+Meat And Beans,Bacon,110,6,9,0
+Meat And Beans,Bean,214.17,10.84,7.17,28
+Meat And Beans,Beef,195.26,19.16,10.79,4.26
+Meat And Beans,Black Beans,225,15,1,41
+Meat And Beans,Broth,250,17,14,18
+Meat And Beans,Chicken,470,27,34,12
+Meat And Beans,Fish,70,6,3,4
+Meat And Beans,Pork,385,16,12,54
+Meat And Beans,Shrimp,150,18.5,5.5,6
+Others,Apricot,143.84,1.54,0.1,36.97
+Others,Cashews,276.5,9,22,15
+Oil,Butter,315,0.33,35.67,0
+Oil,Olive Oil ,125,0,14,0
+Oil,Peanut Oil ,125,0,14,0
+Others,Jalapeno,28,0.9,0.4,7
+Others,Mustard,5,0,0,0
+Others,Barbecue Sauce ,10,0,0,2
+Others,Basil,22,3.2,0.6,2.7
+Others,Cinnamon ,5,0,0,2
+Others,Curry Powder ,5,0,0,1
+Others,Hot Sauce,11,0.5,0.4,1.8
+Others,Parsley,5,0,0,1
+Others,Pepper,5,0,0,1
+Others,Salt ,0,0,0,0
+Others,Soy Sauce ,10,2,0,2
+Others,Sugar,45,0,0,12
+Others,Syrup,60,0,0,15
+Others,Tomato Paste,40,2,0,10
+Others,Tomato Sauce,75,3,0,18
+Others,Vinegar,18,0,0,0
+Others,Cumin,5,0.2,0,1.2
+Vegetable,Artichokes,55,3,0,12
+Vegetable,Asparagus,24.17,2.67,0.33,4.5
+Vegetable,Avocados,322.5,4.5,28.5,19.5
+Vegetable,Beet,44.38,2.88,0,9.25
+Vegetable,Broccoli,39,4.2,0.4,7.8
+Vegetable,Carrots,70,2,0,16
+Vegetable,Cilantro,23,2.1,2.5,3.7
+Vegetable,Garlic ,10,0,0,2
+Vegetable,Lettuce,10,1,0,2
+Vegetable,Onion,41.25,1.5,0,8.75
+Vegetable,Spinach,70.83,6,3.33,6
+Vegetable,Tomatoes,41.67,1.67,0.67,8.33
+Vegetable,Potatoes,145,3,0,34
+Vegetable,Kale,40,2,1,7
+Vegetable,Pickles,5,0,0,1
+Vegetable,Vegetables,105,5,0,24
+Vegetable,Blackeye Peas,180,13,1,30
+Vegetable,Cucumber,5,0,0,1
+Vegetable,Lentils,215,16,1,38
+Vegetable,Celery Seed ,10,0,1,1
+Vegetable,Pumpkin,50,2,0,12
+Vegetable,Chili,20,1,0,4
+Vegetable,Eggplant,25,1,0,6
+Vegetable,Zucchini,17,0.2,1.2,0.3
+Others,Beer,122.5,1,0,9
+Others,Root Beer,165,0,0,42
+Others,Wine,80,0,0,3
