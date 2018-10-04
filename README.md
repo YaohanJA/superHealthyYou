@@ -60,5 +60,5 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Things to update
 
