@@ -14,6 +14,14 @@ Give examples
 
 ### Installing
 
+1. install Python 3.7  
+   * go to [Python Software Foundation](https://www.python.org/downloads/) to download the python 3.7  
+   * install the file with the guide  
+2. install PyCharm  
+   * go to [JetBrains](https://www.jetbrains.com/pycharm/) to download Pycharm  
+   
+2. 
+
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
@@ -30,13 +38,9 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Data Sources
+## Running the tests
 
-Source 1[NutriStrategy](https://www.nutristrategy.com/activitylist.htm)  
-Source 2[MyFoodBuddy](http://www.myfoodbuddy.com/foodCalorieTable.htm)  
-Source 3[NutritionValue](https://www.nutritionvalue.org/)  
-Source 4[Food2Fork](https://www.food2fork.com/about/api)  
-
+Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
