@@ -30,9 +30,13 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Data Sources
 
-Explain how to run the automated tests for this system
+Source 1[NutriStrategy](https://www.nutristrategy.com/activitylist.htm)  
+Source 2[MyFoodBuddy](http://www.myfoodbuddy.com/foodCalorieTable.htm)  
+Source 3[NutritionValue](https://www.nutritionvalue.org/)  
+Source 4[Food2Fork](https://www.food2fork.com/about/api)  
+
 
 ### Break down into end to end tests
 
