@@ -4,7 +4,7 @@ Nowadays, suffered from fast-speed life and heavy pressure, many people eat diso
 
 ### Prerequisites
 
-install python 3.7
+install python 3.7  
 install PyCharm
 
 
