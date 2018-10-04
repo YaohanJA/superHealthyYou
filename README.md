@@ -50,9 +50,11 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Xu Sheng ** -- [Github](https://github.com/PurpleBooth)
+* **Hsuan Ouyang   ** -- [Github](https://github.com/hsuan531)
+* **Yaohan Jiang   ** -- [Github](https://github.com/YaohanJA)
+* **Xiao Shan    ** -- [Github](https://github.com/katesxiao)
+* **Shin-yu Wu     ** -- [Github](https://github.com/ai559031)
 
 ## License
 
@@ -60,8 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
-## Have fun in Python world!
