@@ -13,6 +13,15 @@ Give examples
 ```
 
 ### Installing
+1. Install Python 3.7  
+   * Click [download Python 3.7](https://www.jetbrains.com/pycharm/) to download the Python 3.7 to your file.  
+   * After the installing package has been downloaded, install it as guided.  
+2. Install PyCharm  
+   * Click [download Pycharm](https://www.python.org/downloads/) to download the PyCharm to your computer.  
+   * After the installing package has been downloaded, install it as guided.  
+3. Install Selenium  
+   * Import [Sheng XU](https://www.google.com/search?source=hp&ei=Pxi2W_2GHYy68QXb2IvICw&q=sheng+xu&oq=sheng+xu&gs_l=psy-ab.3..0l2j0i10k1l8.3615.5025.0.5364.8.8.0.0.0.0.581.950.3-1j0j1.2.0....0...1c.1.64.psy-ab..6.2.948....0.lMr-BsaC6AM) to create a selenium environment.  
+   
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -38,19 +47,34 @@ Source 3 [NutritionValue](https://www.nutritionvalue.org/)  -using scraping to o
 Source 4 [Food2Fork](https://www.food2fork.com/about/api)  -using API to obtain the data  
 
 
-## Logic
-As for the diet part, we take the user weight, height, age, and sex as inputs, and in our data warehouse, we match the users’ inputs with the amount of calories and nutrition they need to take under specific body situation. Also, considering that some sports people maintain regular exercise, we also provide users a place to enter the amount of exercises they have already done in that particular day, and this amount of exercise will be translated into a calorie amount in our program using data source one. Therefore, at the end, we can return a precise amount of nutrition a user needs to take in that day.					
 
-As for the second part of our program, we pass the amount of calories needed to data source two and three. After getting user input in keywords of what they want to eat, we search for their favorites, and return a bundle of foods matching the calories and nutrition amount they need to take. In this bundle, we specifically include the keyword food they choose at the beginning.					
-There is also a parallel process in the second part. When we get the user input in the food type, we also pass the information to data source four, which will provide user with links of receipts they might be interested in.					
+### 
 
-## Main method
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Demo
+## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
