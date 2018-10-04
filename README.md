@@ -28,8 +28,6 @@ Give examples
 2. Install PyCharm  
    * Click [download Pycharm](https://www.python.org/downloads/) to download the PyCharm to your computer.  
    * After the installing package has been downloaded, install it as guided.  
-3. Install Selenium  
-   * Import [Sheng XU](https://www.google.com/search?source=hp&ei=Pxi2W_2GHYy68QXb2IvICw&q=sheng+xu&oq=sheng+xu&gs_l=psy-ab.3..0l2j0i10k1l8.3615.5025.0.5364.8.8.0.0.0.0.581.950.3-1j0j1.2.0....0...1c.1.64.psy-ab..6.2.948....0.lMr-BsaC6AM) to create a selenium environment.
 
 A step by step series of examples that tell you how to get a development env running
 
