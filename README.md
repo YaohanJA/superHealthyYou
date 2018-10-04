@@ -5,17 +5,17 @@ Nowadays, suffered from fast-speed life and heavy pressure, many people eat diso
 ### Prerequisites
 
 install python 3.7  
-install PyCharm
-install Selenium Package in PyCharm
-get the appropriate chromedriver for your environment
-install numpy
-install pandas
-install time
-install os
-install bs4
-install literal_eval
-install json
-install requests
+install PyCharm  
+install Selenium Package in PyCharm  
+get the appropriate chromedriver for your environment  
+install numpy  
+install pandas  
+install time  
+install os  
+install bs4  
+install literal_eval  
+install json  
+install requests  
 ```
 Give examples
 ```
