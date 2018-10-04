@@ -1,16 +1,12 @@
-# superHealthyYou
+# SuperHealthyYou
 Python Project for Group One
-# Project Title
-
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Nowadays, suffered from fast-speed life and heavy pressure, many people eat disorderly. Some of them already noticed the importance of healthy diet and regular exercise. However, not all of them have enough time to prepare the healthy meal, or do sports. Also, some people suffered from sports anxiety.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+install python 3.7
+install PyCharm
+
 
 ```
 Give examples
@@ -87,5 +83,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
-![GitHub Logo](https://drive.google.com/drive/folders/1Jzr5W4E4vsfe7_Hmp3n7mZ75nv9eNtbM) Format: ![Alt Text](url)
