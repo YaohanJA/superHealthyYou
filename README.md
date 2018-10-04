@@ -7,6 +7,7 @@ Nowadays, suffered from fast-speed life and heavy pressure, many people eat diso
 install python 3.7  
 install PyCharm
 install Selenium Package in PyCharm
+get the appropriate chromedriver for your environment
 install numpy
 install pandas
 install time
