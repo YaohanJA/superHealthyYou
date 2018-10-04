@@ -44,13 +44,13 @@ As for the diet part, we take the user weight, height, age, and sex as inputs, a
 As for the second part of our program, we pass the amount of calories needed to data source two and three. After getting user input in keywords of what they want to eat, we search for their favorites, and return a bundle of foods matching the calories and nutrition amount they need to take. In this bundle, we specifically include the keyword food they choose at the beginning.					
 There is also a parallel process in the second part. When we get the user input in the food type, we also pass the information to data source four, which will provide user with links of receipts they might be interested in.					
 
-## Built With
+## Main method
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## Demo
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
