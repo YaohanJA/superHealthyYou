@@ -1,9 +1,9 @@
 # SuperHealthyYou
+
 Python Project for Group One
 Nowadays, suffered from fast-speed life and heavy pressure, many people eat disorderly. Some of them already noticed the importance of healthy diet and regular exercise. However, not all of them have enough time to prepare the healthy meal, or do sports. Also, some people suffered from sports anxiety.
 
 ### Prerequisites
-
 install python 3.7  
 install PyCharm  
 install Selenium Package in PyCharm  
@@ -16,9 +16,6 @@ install bs4
 install literal_eval  
 install json  
 install requests  
-```
-Give examples
-```
 
 ### Installing
 
@@ -28,22 +25,6 @@ Give examples
 2. Install PyCharm  
    * Click [download Pycharm](https://www.python.org/downloads/) to download the PyCharm to your computer.  
    * After the installing package has been downloaded, install it as guided.  
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Data Sources
 
@@ -66,31 +47,6 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 6. run the main program "SuperHealthyYou.py", it will invoke all files to get your body information and recomend several recipes to you.
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
