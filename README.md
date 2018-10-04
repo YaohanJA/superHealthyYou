@@ -5,8 +5,8 @@ Nowadays, suffered from fast-speed life and heavy pressure, many people eat diso
 ### Prerequisites
 
 install python 3.7  
-install PyCharm
-
+install PyCharm  
+install Selenium Package in PyCharm
 
 ```
 Give examples
