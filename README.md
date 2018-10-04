@@ -14,8 +14,6 @@ Give examples
 
 ### Installing
 
-[a](https://www.jetbrains.com/pycharm/)
-
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
@@ -41,7 +39,7 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)  -using API to obtain 
 
 
 
-### Break down into end to end tests
+### 
 
 Explain what these tests test and why
 
