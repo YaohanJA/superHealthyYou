@@ -13,7 +13,7 @@ Give examples
 ```
 
 ### Installing
-[a](https://www.jetbrains.com/pycharm/)
+
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
@@ -38,26 +38,11 @@ Source 3 [NutritionValue](https://www.nutritionvalue.org/)  -using scraping to o
 Source 4 [Food2Fork](https://www.food2fork.com/about/api)  -using API to obtain the data  
 
 
+## Logic
+As for the diet part, we take the user weight, height, age, and sex as inputs, and in our data warehouse, we match the users’ inputs with the amount of calories and nutrition they need to take under specific body situation. Also, considering that some sports people maintain regular exercise, we also provide users a place to enter the amount of exercises they have already done in that particular day, and this amount of exercise will be translated into a calorie amount in our program using data source one. Therefore, at the end, we can return a precise amount of nutrition a user needs to take in that day.					
 
-### 
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+As for the second part of our program, we pass the amount of calories needed to data source two and three. After getting user input in keywords of what they want to eat, we search for their favorites, and return a bundle of foods matching the calories and nutrition amount they need to take. In this bundle, we specifically include the keyword food they choose at the beginning.					
+There is also a parallel process in the second part. When we get the user input in the food type, we also pass the information to data source four, which will provide user with links of receipts they might be interested in.					
 
 ## Built With
 
