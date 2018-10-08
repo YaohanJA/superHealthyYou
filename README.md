@@ -37,15 +37,16 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 1. run the first scrapers "ScrapeNutriValueData.py", it may take a lot of time since there are thousands of links. To make things easier, you can directly use our downloaded file "newLinks.csv".
 
-2. run the second scraper "DownloadNutriData.py", this scraper will download the csvs whose links are in the "newLinks.csv", which is scrapped by the first scraper.
+2. run the second scraper "DownloadNutriData.py", this scraper will download the csvs whose links are in the "newLinks.csv", which is scrapped by the first scraper. This may take a considerable amount of time. For your convinience, we have downloaded all necessary csv files and compress them together in the folder.
 
-3. run the third scraper "ScrapeMyFoodBuddyData.py", this scraper will scrape the data from the source "myfoodbuddy.com".
+3. run the third scraper "ScrapeMyFoodBuddyData.py", this scraper will scrape the data from the source "myfoodbuddy.com". However, we have cleaned the raw data, so please use the processed data file "chooseFoodBuddy.csv".
 
-4. run the forth scraper "ScrapeNutriStrategyData.py", it will get the sports data from the given website.
+4. run the forth scraper "ScrapeNutriStrategyData.py", it will get the sports data from the given website. However, we have cleaned the raw data, so please use the processed data file "NutriStrategyData.csv".
+
 
 5. run the fifth scraper "ScrapeFood2Fork.py", you need go to Souce 4 website and sign up to get an api key, thus, you can get the recipes. For your convinience, you can directly use the cleaned data file "FoodRecipe.csv".
 
-6. run the main program "SuperHealthyYou.py", it will invoke all files to get your body information and recomend several recipes to you.
+6. run the main program "SuperHealthyYou.py", it will invoke all files to get your body information and recommend you with sports, several recipes and give you a brief idea of what nutritions are involved in the ingredient. Finally, the program will draw the radar chart for each recipe to tell you what kind of ingredient is included in the menu.
 
 
 ## Authors
