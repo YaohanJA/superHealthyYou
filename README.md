@@ -1,4 +1,4 @@
-<img src="SuperHealthyYou.png " width="800" height="200">
+<img src="SuperHealthyYou.png " width="800" height="100">
 
 # SuperHealthyYou
 
@@ -57,13 +57,13 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 - Xu Sheng -- [Github](https://github.com/FanaticKyo) 
 
-- **Hsuan Ouyang   ** -- [Github](https://github.com/hsuan531)
+- Hsuan Ouyang -- [Github](https://github.com/hsuan531)
 
-- **Yaohan Jiang   ** -- [Github](https://github.com/YaohanJA)
+- Yaohan Jiang -- [Github](https://github.com/YaohanJA)
 
-- **Xiao Shan    ** -- [Github](https://github.com/katesxiao)
+- Xiao Shan -- [Github](https://github.com/katesxiao)
 
-- **Shin-yu Wu     ** -- [Github](https://github.com/ai559031)
+- Shin-yu Wu -- [Github](https://github.com/ai559031)
 
 ## License
 
