@@ -2,8 +2,12 @@
 
 # SuperHealthyYou
 
-Python Project for Group One
-Nowadays, suffered from fast-speed life and heavy pressure, many people eat disorderly. Some of them already noticed the importance of healthy diet and regular exercise. However, not all of them have enough time to prepare the healthy meal, or do sports. Also, some people suffered from sports anxiety.
+Python Project for Group One.  
+Nowadays, suffered from fast-speed life and heavy pressure, many people eat disorderly. Some of them already noticed the importance of healthy diet and regular exercise. However, not all of them have enough time to prepare the healthy meal, or do sports. Also, some people suffered from sports anxiety.    
+
+Thus, seeing this problem, our project focuses on implement a one-stop-customized-service to provide customers with valuable suggestions on proper diet.
+
+<img src="projectgoal.png " width="600" height="150">
 
 ### Prerequisites
 install python 3.7  
