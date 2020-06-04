@@ -1,4 +1,4 @@
-<img src="SuperHealthyYou.png " width="800" height="100">
+<img src="SuperHealthyYou.png " width="600" height="100">
 
 # SuperHealthyYou
 
