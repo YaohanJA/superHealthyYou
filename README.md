@@ -1,4 +1,4 @@
-<img src="SuperHealthyYou.png " width="700" height="300">
+<img src="SuperHealthyYou.png " width="800" height="200">
 
 # SuperHealthyYou
 
@@ -6,8 +6,6 @@ Python Project for Group One.
 Nowadays, suffered from fast-speed life and heavy pressure, many people eat disorderly. Some of them already noticed the importance of healthy diet and regular exercise. However, not all of them have enough time to prepare the healthy meal, or do sports. Also, some people suffered from sports anxiety.    
 
 Thus, seeing this problem, our project focuses on implement a one-stop-customized-service to provide customers with valuable suggestions on proper diet.
-
-<img src="projectgoal.png " width="600" height="150">
 
 ### Prerequisites
 install python 3.7  
@@ -57,15 +55,15 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 ## Authors
 
-**Xu Sheng ** -- [Github](https://github.com/FanaticKyo) 
+- **Xu Sheng ** -- [Github](https://github.com/FanaticKyo) 
 
-**Hsuan Ouyang   ** -- [Github](https://github.com/hsuan531)
+- **Hsuan Ouyang   ** -- [Github](https://github.com/hsuan531)
 
-**Yaohan Jiang   ** -- [Github](https://github.com/YaohanJA)
+- **Yaohan Jiang   ** -- [Github](https://github.com/YaohanJA)
 
-**Xiao Shan    ** -- [Github](https://github.com/katesxiao)
+- **Xiao Shan    ** -- [Github](https://github.com/katesxiao)
 
-**Shin-yu Wu     ** -- [Github](https://github.com/ai559031)
+- **Shin-yu Wu     ** -- [Github](https://github.com/ai559031)
 
 ## License
 
