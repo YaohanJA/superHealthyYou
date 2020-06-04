@@ -55,7 +55,7 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 ## Authors
 
-- **Xu Sheng ** -- [Github](https://github.com/FanaticKyo) 
+- Xu Sheng -- [Github](https://github.com/FanaticKyo) 
 
 - **Hsuan Ouyang   ** -- [Github](https://github.com/hsuan531)
 
