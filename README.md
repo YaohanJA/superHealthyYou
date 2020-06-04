@@ -1,3 +1,5 @@
+<img src="SuperHealthyYou.png " width="500" height="300">
+
 # SuperHealthyYou
 
 Python Project for Group One
@@ -51,15 +53,16 @@ Source 4 [Food2Fork](https://www.food2fork.com/about/api)
 
 ## Authors
 
-* **Xu Sheng ** -- [Github](https://github.com/FanaticKyo)
-* **Hsuan Ouyang   ** -- [Github](https://github.com/hsuan531)
-* **Yaohan Jiang   ** -- [Github](https://github.com/YaohanJA)
-* **Xiao Shan    ** -- [Github](https://github.com/katesxiao)
-* **Shin-yu Wu     ** -- [Github](https://github.com/ai559031)
+**Xu Sheng ** -- [Github](https://github.com/FanaticKyo)
+**Hsuan Ouyang   ** -- [Github](https://github.com/hsuan531)
+**Yaohan Jiang   ** -- [Github](https://github.com/YaohanJA)
+**Xiao Shan    ** -- [Github](https://github.com/katesxiao)
+**Shin-yu Wu     ** -- [Github](https://github.com/ai559031)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Things to update
+## Logic Diagram
 
+<img src="logic_diagram.png " width="600" height="350">
